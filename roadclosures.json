@@ -12,6 +12,123 @@
         "starttime": "2026-10-10T19:00:00-05:00",
         "endtime": "2026-10-10T19:00:00-05:00"
       }
+    },
+    {
+      "incident": {
+        "id": "912fd574-1360-45cb-a8e0-121a5aa24e2c",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Breast Cancer Walk for the Cure",
+        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "polyline": "18.4766661964878 -77.9245360467012 18.4766695203821 -77.9245543002407 18.4773820568365 -77.9254933804152 18.4787163162051 -77.9272518616841 18.4789916076766 -77.9278936718554 18.4796176770142 -77.9284398490198 18.4801746910092 -77.9289257841975 18.4806419166911 -77.9292330438698 18.4810902916836 -77.9293943372788 18.4819448400823 -77.9293331572993 18.4821852864219 -77.9293710736161 18.482422659778 -77.9296513895999 18.4826732351817 -77.9299472980293 18.482941240346 -77.9301235471639 18.4831750173133 -77.9302076436678 18.483622231281 -77.9302160640201 18.4839542393967 -77.9301120601235 18.4844711796013 -77.9299007113487 18.4852143766422 -77.9295275466589 18.4857272420186 -77.9290977201836 18.4864077554136 -77.9288845421879 18.4869199382046 -77.9286273693576 18.4873729878731 -77.9281522089572 18.4878965866582 -77.9276030559362 18.4885334406658 -77.9274569799557 18.4893089998105 -77.927471583147 18.4903592541763 -77.9273963881328 18.4901316879271 -77.9259886577503 18.4901480142195 -77.9253925906955 18.490326851603 -77.9249319102794 18.4906011367331 -77.924481402095 18.4912028632216 -77.9234930723474 18.4917562934182 -77.922668245643 18.492747927275 -77.9211387425589 18.4938239499154 -77.9194257004357 18.4945190826896 -77.918406862087 18.4946618536617 -77.9181723557696",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-10-11T07:00:00-05:00",
+        "endtime": "2026-10-11T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "d223e676-357d-4034-bede-fa4e317742df",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Pink \u0026 Blue Run\\Walk \u0022Paint Ochi Pink \u0026 Blue \u0022",
+        "street": "Start at Ocean Village Shopping center proceed along Main Street turnaround point at coconut grove supermarket continue via the bypass onto Milford Road return Ocean Village Shopping Centre",
+        "polyline": "18.4070309458215 -77.1057569656114 18.4086444545779 -77.1048879300339 18.4094486598278 -77.1046411668563 18.4096777036631 -77.1044748696195 18.4098405807782 -77.1041208191205 18.410161243047 -77.1030372062021 18.411195994 -77.1005250660789 18.4118169129202 -77.0991753311766 18.4121096980042 -77.0983067929241 18.412216344109 -77.0976150371042 18.4119007747011 -77.0959520674339 18.411665839407 -77.0947140022494 18.4115546679137 -77.0937097410117 18.4114392030568 -77.0910926832807 18.4113890649534 -77.089956190226 18.4115220072349 -77.0890938671882 18.4113679452745 -77.0868226059785 18.4112061293594 -77.0853608506227 18.4106757272031 -77.0844515326121 18.4108782374407 -77.0837671872059 18.4108725923963 -77.0837653534882",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-15T06:00:00-05:00",
+        "endtime": "2026-11-15T08:30:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "e103f97c-f9be-41d0-bc50-00cef3471a63",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Breast Cancer Walk for the Cure",
+        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "polyline": "18.4942927008475 -77.9180847420172 18.4943514103894 -77.9182577158209 18.494368326637 -77.9185445258092",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-10-11T07:00:00-05:00",
+        "endtime": "2026-10-11T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "9f64a9fe-3bdd-42e4-bb5c-94ea8ce0f264",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Breast Cancer Walk for the Cure",
+        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "polyline": "18.4947370918434 -77.9180487754306 18.4952541408659 -77.917199505153 18.4951318465575 -77.9169143643064 18.4948652344431 -77.9168723174035 18.4944938234312 -77.9169284386965 18.4942632372586 -77.9172664039214 18.4941720738822 -77.9177293416358 18.4942630897698 -77.9179974987855",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-10-11T07:00:00-05:00",
+        "endtime": "2026-10-11T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "ec0e50e4-2b62-44e6-b9cf-16679486b05b",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Breast Cancer Walk for the Cure",
+        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "polyline": "18.4764545833124 -77.9238903793375 18.4765002607784 -77.9239622918263 18.4765670920977 -77.9243721056881",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-10-11T07:00:00-05:00",
+        "endtime": "2026-10-11T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "c17efdd2-2eca-4eb4-af37-9f0107f9fa39",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Breast Cancer Walk for the Cure",
+        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "polyline": "18.4738379788397 -77.9228007247736 18.4749776833734 -77.9228221825976 18.475934278744 -77.9228401933202 18.4762394888614 -77.9235517441177 18.4764545833124 -77.9238903793375",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-10-11T07:00:00-05:00",
+        "endtime": "2026-10-11T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "d9376fa3-0f90-4e5c-b92e-811091aefcd1",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Pink \u0026 Blue Run\\Walk \u0022Paint Ochi Pink \u0026 Blue \u0022",
+        "street": "Start at Ocean Village Shopping center proceed along Main Street turnaround point at coconut grove supermarket continue via the bypass onto Milford Road return Ocean Village Shopping Centre",
+        "polyline": "18.4108725923963 -77.0837653534882 18.4103831759429 -77.0836064145044",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-15T06:00:00-05:00",
+        "endtime": "2026-11-15T08:30:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "23eb8988-1f18-4f0e-a5c9-45d507c8c9e0",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Pink \u0026 Blue Run\\Walk \u0022Paint Ochi Pink \u0026 Blue \u0022",
+        "street": "Start at Ocean Village Shopping center proceed along Main Street turnaround point at coconut grove supermarket continue via the bypass onto Milford Road return Ocean Village Shopping Centre",
+        "polyline": "18.4055944335364 -77.1050411322424 18.4070409336922 -77.1056922324105",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-15T06:00:00-05:00",
+        "endtime": "2026-11-15T08:30:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "aae3dde4-fa50-4677-b71e-15062f7e77ec",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Pink \u0026 Blue Run\\Walk \u0022Paint Ochi Pink \u0026 Blue \u0022",
+        "street": "Start at Ocean Village Shopping center proceed along Main Street turnaround point at coconut grove supermarket continue via the bypass onto Milford Road return Ocean Village Shopping Centre",
+        "polyline": "18.4103276706855 -77.0835400535306 18.4102634977623 -77.0835675494029 18.4100595800856 -77.0842566513234 18.4100988435868 -77.0858575866583 18.4096984717071 -77.0874556072904 18.4094459771502 -77.0886069661385 18.4094974462502 -77.0907055431263 18.4094643368097 -77.0929058559205 18.4090164267668 -77.0952554705635 18.4086965001434 -77.0973306211112 18.4082053632869 -77.0995963577856 18.4076171886824 -77.1019544332505 18.4072243738058 -77.103119674933 18.4067360949948 -77.1036688864099 18.4054534189402 -77.1049402525906 18.4054677829119 -77.1049476899839",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-15T06:00:00-05:00",
+        "endtime": "2026-11-15T08:30:00-05:00"
+      }
     }
   ]
 }
