@@ -129,6 +129,19 @@
         "starttime": "2026-11-15T06:00:00-05:00",
         "endtime": "2026-11-15T08:30:00-05:00"
       }
+    },
+    {
+      "incident": {
+        "id": "a238f731-eec3-4c53-ab0c-cf213cda8d20",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Anthems Event",
+        "street": "Church Street (between Tower Street and Harbour Street)",
+        "polyline": "17.966098577 -76.792046499 17.967373938 -76.791954155",
+        "direction": "BOTH_DIRECTIONS",
+        "starttime": "2026-09-26T16:00:00-05:00",
+        "endtime": "2026-09-26T22:00:00-05:00"
+      }
     }
   ]
 }
