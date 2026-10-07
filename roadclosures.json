@@ -123,7 +123,7 @@
         "type": "ROAD_CLOSED",
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Breast Cancer Walk for the Cure",
-        "street": "St. James Street, Howard Cooke Blvd., Jimmy Cliff Blvd., The Queen Street",
+        "street": "St. James Street, Howard Cooke Boulevard, Jimmy Cliff Boulevard, The Queen Street",
         "polyline": "18.477153543 -77.9242783129999 18.4770673830001 -77.924246978 18.4770258090001 -77.924247387 18.4764255530001 -77.924408354 18.4765022020001 -77.924485003 18.4765569510001 -77.924550702 18.476632656 -77.9246420059999",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-10-11T07:00:00-05:00",
