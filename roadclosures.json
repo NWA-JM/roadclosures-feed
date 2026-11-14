@@ -301,19 +301,6 @@
     },
     {
       "incident": {
-        "id": "bc41bd5d-43e7-4a5b-b1c7-19538be01dd2",
-        "type": "ROAD_CLOSED",
-        "subtype": "ROAD_CLOSED_EVENT",
-        "description": "Fashion Block",
-        "street": "Ocean Boulevard",
-        "polyline": "17.9637817390001 -76.7933677509999 17.9636957970001 -76.792328642 17.9636201320001 -76.791413791 17.9638438490001 -76.791112186 17.9647492870001 -76.791031765",
-        "direction": "BOTH_DIRECTIONS",
-        "starttime": "2026-11-14T13:00:00-05:00",
-        "endtime": "2026-11-14T16:00:00-05:00"
-      }
-    },
-    {
-      "incident": {
         "id": "3f9de6cb-bc75-4e69-9e35-5ea45eba5eb3",
         "type": "ROAD_CLOSED",
         "subtype": "ROAD_CLOSED_EVENT",
