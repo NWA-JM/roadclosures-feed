@@ -72,7 +72,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Reggae Marathon 2026",
         "street": "Ocean Boulevard, Port Royal Street",
-        "polyline": "17.964633183 -76.789139919 17.9647492870001 -76.7910317659999 17.96474636 -76.791032225",
+        "polyline": "17.964633183 -76.789139919 17.9647492870001 -76.7910317659999",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-12-06T05:30:00-05:00",
         "endtime": "2026-12-06T10:00:00-05:00"
@@ -98,7 +98,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Reggae Marathon 2026",
         "street": "Ocean Boulevard, Port Royal Street",
-        "polyline": "17.964076118 -76.796467422 17.964251647 -76.796477131 17.965938841 -76.796382496 17.9659382560001 -76.7963750279999",
+        "polyline": "17.964076118 -76.796467422 17.964251647 -76.796477131 17.965938841 -76.796382496",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-12-06T05:30:00-05:00",
         "endtime": "2026-12-06T10:00:00-05:00"
