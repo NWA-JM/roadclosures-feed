@@ -72,7 +72,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Reggae Marathon 2026",
         "street": "Nethersole Place",
-        "polyline": "17.9646360772895 -76.78918707976 17.9647464648607 -76.7909857808832",
+        "polyline": "17.9646476544475 -76.7893757228002 17.9647348155526 -76.7907959621997",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-12-06T05:30:00-05:00",
         "endtime": "2026-12-06T10:00:00-05:00"
