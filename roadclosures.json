@@ -280,7 +280,46 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "NWA Test",
         "street": "Meadowbrook Avenue, Michigan Avenue, Meadow Way, Whitney Drive",
-        "polyline": "18.0495443 -76.815039513 18.050042922 -76.814212765 18.05045355 -76.8146631559999 18.050647133 -76.8153850209999 18.0508919220001 -76.816297838 18.0505591410001 -76.817970153 18.050480054 -76.818101285 18.0497320170001 -76.818001002 18.049913485 -76.817089083 18.050050775 -76.816399165 18.0500018590001 -76.8157428649999",
+        "polyline": "18.0500417210001 -76.814214756 18.050042922 -76.814212765 18.05045355 -76.8146631559999 18.050647133 -76.8153850209999 18.0508919220001 -76.816297838 18.0505591410001 -76.817970153 18.050503555 -76.818062319",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-23T13:45:00-05:00",
+        "endtime": "2026-11-23T14:45:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "60256b1f-62b0-4932-a23b-54bc74793c85",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "NWA Test",
+        "street": "Meadowbrook Avenue, Michigan Avenue, Meadow Way, Whitney Drive",
+        "polyline": "18.049733626 -76.817992917 18.049913485 -76.817089083 18.050050775 -76.816399165 18.0500018590001 -76.8157428649999 18.0495443 -76.815039513",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-23T13:45:00-05:00",
+        "endtime": "2026-11-23T14:45:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "33e4ae9e-9e7b-49ba-bf0f-8bae6f1aa4b3",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "NWA Test",
+        "street": "Meadowbrook Avenue, Michigan Avenue, Meadow Way, Whitney Drive",
+        "polyline": "18.050503555 -76.818062319 18.050480054 -76.818101285 18.0497320170001 -76.818001002 18.049733626 -76.817992917",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-23T13:45:00-05:00",
+        "endtime": "2026-11-23T14:45:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "01992b95-8e33-40a4-b138-92e39b08ab4c",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "NWA Test",
+        "street": "Meadowbrook Avenue, Michigan Avenue, Meadow Way, Whitney Drive",
+        "polyline": "18.0495443 -76.815039513 18.0500417210001 -76.814214756",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-23T13:45:00-05:00",
         "endtime": "2026-11-23T14:45:00-05:00"
