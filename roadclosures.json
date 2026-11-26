@@ -7,7 +7,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "New Life Foundation 5K Run/Walk 2027",
         "street": "Burke Road, Port Henderson Road, Spanish Town Bypass, Twickenham Park Road",
-        "polyline": "17.9974944360001 -76.932095924 17.997238678 -76.935761112 17.996602931 -76.941641772 17.996232078 -76.944720436 17.9960083890001 -76.9454268219999 17.995419735 -76.945974271 17.9935890190001 -76.946898458 17.992976818 -76.9472398779999 17.9922592080001 -76.949478502",
+        "polyline": "17.9974944360001 -76.932095924 17.997238678 -76.935761112 17.996602931 -76.941641772 17.996232078 -76.944720436 17.995933785 -76.945531842",
         "direction": "ONE_DIRECTION",
         "starttime": "2027-04-17T19:00:00-05:00",
         "endtime": "2027-04-17T19:00:00-05:00"
@@ -180,6 +180,19 @@
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T06:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "b212e10a-c7d2-4c6d-9974-09682f85cfa0",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "New Life Foundation 5K Run/Walk 2027",
+        "street": "Burke Road, Port Henderson Road, Spanish Town Bypass, Twickenham Park Road",
+        "polyline": "17.9956115950001 -76.945852805 17.9953678730001 -76.945930701 17.9935890190001 -76.946898458 17.992976818 -76.9472398779999 17.9922592080001 -76.949478502",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2027-04-17T19:00:00-05:00",
+        "endtime": "2027-04-17T19:00:00-05:00"
       }
     }
   ]
