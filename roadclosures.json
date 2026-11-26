@@ -124,7 +124,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Veritas 5K Road Race Run/Walk",
         "street": "Vineyard Road, Diana Crescent, Diana Way, Antrim Road, Lexington Avenue, Deanery Road, Mountain View Avenue",
-        "polyline": "17.986201909 -76.7715005589999 17.986191638 -76.773961431",
+        "polyline": "17.986201571 -76.771581661 17.986191638 -76.773961431",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T06:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
@@ -137,7 +137,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Veritas 5K Road Race Run/Walk",
         "street": "Vineyard Road, Diana Crescent, Diana Way, Antrim Road, Lexington Avenue, Deanery Road, Mountain View Avenue",
-        "polyline": "17.986252768 -76.77398192 17.9863633590001 -76.774019656 17.986484734 -76.7740610709999 17.986746516 -76.774150396 17.98674815 -76.77411724 17.9868018400001 -76.7735840829999 17.987154187 -76.7735878299999 17.9883121780001 -76.773435966 17.9883120220001 -76.773428197",
+        "polyline": "17.986252768 -76.77398192 17.9863633590001 -76.774019656 17.986484734 -76.7740610709999 17.986746516 -76.774150396 17.98674815 -76.77411724 17.9868018400001 -76.7735840829999 17.987154187 -76.7735878299999 17.9882453450001 -76.7734385809999 17.988293653 -76.773431058",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T06:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
@@ -150,7 +150,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Veritas 5K Road Race Run/Walk",
         "street": "Vineyard Road, Diana Crescent, Diana Way, Antrim Road, Lexington Avenue, Deanery Road, Mountain View Avenue",
-        "polyline": "17.9883120220001 -76.773428197 17.988310772 -76.773365788 17.988278339 -76.773134195 17.98829857 -76.77312856 17.988920421 -76.773038522 17.9906537410001 -76.772932697 17.993368386 -76.7728128799999",
+        "polyline": "17.9883270830001 -76.7734247659999 17.9883196000001 -76.7733614479999 17.988278339 -76.773134195 17.98829857 -76.77312856 17.988920421 -76.773038522 17.9906537410001 -76.772932697 17.993368386 -76.7728128799999",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T06:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
@@ -163,7 +163,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "Veritas 5K Road Race Run/Walk",
         "street": "Vineyard Road, Diana Crescent, Diana Way, Antrim Road, Lexington Avenue, Deanery Road, Mountain View Avenue",
-        "polyline": "17.993368386 -76.7728128799999 17.9934869640001 -76.7692603529999 17.9930090290001 -76.76867773 17.993008875 -76.767576205 17.9929394750001 -76.767498372",
+        "polyline": "17.9933694320001 -76.77278154 17.9934869640001 -76.7692603529999 17.9930090290001 -76.76867773 17.993008875 -76.767576205 17.9929394750001 -76.767498372",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T06:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
