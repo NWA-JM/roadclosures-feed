@@ -41,6 +41,19 @@
     },
     {
       "incident": {
+        "id": "d639bf35-4a21-45f0-a142-b149d6bbaa27",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "JFJ's Run for Rights 5K Run/Walk/Wheel 2026",
+        "street": "Old Hope Road",
+        "polyline": "18.0111210540001 -76.750136622 18.011117384 -76.750134347 18.01127719 -76.7496529049999 18.0115035970001 -76.749049782 18.0120671 -76.7487164779999 18.0129207370001 -76.74829109 18.0133534230001 -76.748232894 18.0140368290001 -76.748655679 18.014593576 -76.7488334029999 18.014907947 -76.748823074",
+        "direction": "ONE_DIRECTION",
+        "starttime": "2026-11-29T04:00:00-05:00",
+        "endtime": "2026-11-29T10:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
         "id": "14bb30ca-a49e-4be2-afe7-1e7cf99b9e0d",
         "type": "ROAD_CLOSED",
         "subtype": "ROAD_CLOSED_EVENT",
