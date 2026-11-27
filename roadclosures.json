@@ -150,7 +150,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "JFJ's Run for Rights 5K Run/Walk/Wheel 2026",
         "street": "Old Hope Road",
-        "polyline": "18.015979503 -76.747173533 18.016740575 -76.751198544",
+        "polyline": "18.015979503 -76.747173533 18.016746482 -76.75122351",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T04:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
@@ -397,7 +397,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "JFJ's Run for Rights 5K Run/Walk/Wheel 2026",
         "street": "Old Hope Road",
-        "polyline": "18.0168344420001 -76.751234886 18.0169163510001 -76.751242552",
+        "polyline": "18.016848533 -76.751229426 18.0169604440001 -76.751266401",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T04:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
@@ -410,7 +410,7 @@
         "subtype": "ROAD_CLOSED_EVENT",
         "description": "JFJ's Run for Rights 5K Run/Walk/Wheel 2026",
         "street": "Old Hope Road",
-        "polyline": "18.016759978 -76.7512279159999 18.0168344420001 -76.751234886",
+        "polyline": "18.016753877 -76.7512383 18.016810181 -76.7512326149999",
         "direction": "ONE_DIRECTION",
         "starttime": "2026-11-29T04:00:00-05:00",
         "endtime": "2026-11-29T10:00:00-05:00"
