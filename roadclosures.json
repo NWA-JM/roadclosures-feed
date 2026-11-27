@@ -207,6 +207,58 @@
         "starttime": "2026-11-28T12:30:00-05:00",
         "endtime": "2026-11-28T13:30:00-05:00"
       }
+    },
+    {
+      "incident": {
+        "id": "f4c0769c-6769-4416-94aa-f55030e983ea",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Yard Mas Carnival Band Launch",
+        "street": "Church Street, Water Lane",
+        "polyline": "17.9673748280001 -76.791984873 17.9661144180001 -76.792059879 17.9661085130001 -76.7920611659999",
+        "direction": "BOTH_DIRECTIONS",
+        "starttime": "2026-11-29T17:00:00-05:00",
+        "endtime": "2026-11-29T23:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "12ce2b9b-e0d0-4521-b6c1-3fd53ac34f6d",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Yard Mas Carnival Band Launch",
+        "street": "Church Street, Water Lane",
+        "polyline": "17.9657273220001 -76.792083449 17.9660470330001 -76.792064108",
+        "direction": "BOTH_DIRECTIONS",
+        "starttime": "2026-11-29T17:00:00-05:00",
+        "endtime": "2026-11-29T23:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "63baeed4-9bca-4df7-b1c8-c78084635461",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Yard Mas Carnival Band Launch",
+        "street": "Church Street, Water Lane",
+        "polyline": "17.9661568120001 -76.793101612 17.9660113420001 -76.7911375749999",
+        "direction": "BOTH_DIRECTIONS",
+        "starttime": "2026-11-29T17:00:00-05:00",
+        "endtime": "2026-11-29T23:00:00-05:00"
+      }
+    },
+    {
+      "incident": {
+        "id": "bc962819-6945-4097-9919-73099a922547",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_EVENT",
+        "description": "Yard Mas Carnival Band Launch",
+        "street": "Church Street, Water Lane",
+        "polyline": "17.9664796750001 -76.7925366009999 17.966389125 -76.791536989",
+        "direction": "BOTH_DIRECTIONS",
+        "starttime": "2026-11-29T17:00:00-05:00",
+        "endtime": "2026-11-29T23:00:00-05:00"
+      }
     }
   ]
 }
